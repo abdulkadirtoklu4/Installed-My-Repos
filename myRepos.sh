@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /home/kali/MasaÃ¼stÃ¼/
 mkdir "abdulkadirtoklu4's Repos"
 cd "abdulkadirtoklu4's Repos"
 git clone https://github.com/abdulkadirtoklu4/Linux-Automation-System
